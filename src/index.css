@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+nav {
+  display: flex;
+  background-color: rgb(90, 85, 85);
+  color: white;
+}
+.navTitle {
+  width: 50vw;
+}
+.navInfo {
+  width: 50vw;
+}
