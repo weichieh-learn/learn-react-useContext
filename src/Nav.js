@@ -9,7 +9,7 @@ function Nav() {
     <>
     <nav>
       <h3 className="navTitle">Jessica App</h3>
-      <p className="navInfo">List of Movies:{movies.length}</p>
+      <p className="navInfo">List of Movies: {movies.length}</p>
     </nav>
     </>
   )
